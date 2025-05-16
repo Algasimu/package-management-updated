@@ -241,3 +241,7 @@ to gmail account and go to manage google account,
 Start alertmanager when you are done editing.
 
       ./alertmanager.yml
+
+
+Dashboards ID: 9964 to monitor jenkins
+               7587 for app monitoring 
